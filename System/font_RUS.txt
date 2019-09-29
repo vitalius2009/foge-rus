@@ -1,0 +1,55 @@
+[DefaultFont]
+height 12
+name PT_Serif-Web-Bold
+
+[TinyFont]
+height 8
+name PT_Serif-Web-Bold
+
+[SmallFont]
+height 10
+name PT_Serif-Web-Bold
+
+[MediumFont]
+height 12
+name CaslonRUS
+
+[LargeFont]
+height 24
+name CaslonRUS
+
+[VeryLargeFont]
+height 36
+name CaslonRUS
+
+[ToolTipFont]
+height 10
+name PT_Serif-Web-Bold
+
+[SmallToolTipFont]
+height 8
+name PT_Serif-Web-Bold
+
+[MenuFont]
+height 24
+name CaslonRUS
+
+[MapTextFont]
+height 60
+name CaslonRUS
+
+[NumericFont]
+height 12
+name PT_Sans-Web-Bold
+
+[TinyNumericFont]
+height 8
+name PT_Sans-Web-Bold
+
+[SmallNumericFont]
+height 10
+name PT_Sans-Web-Bold
+
+[LargeNumericFont]
+height 18
+name PT_Sans-Web-Bold
